@@ -7,7 +7,7 @@ Final-year IT student at QUT who likes building practical tools, from a tracking
 - Bachelor of Information Technology (Computer Science, minor in Networks & Security) @ QUT, finishing Nov 2026
 - Brisbane, Australia
 - Member of the Australian Computer Society (ACS)
-- Looking for 2027 graduate roles in software, networking or cyber security
+- Looking for 2027 graduate roles in IT
 
 `$ ls ~/projects`
 
