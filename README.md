@@ -1,4 +1,4 @@
-### Hey, I'm Mitch
+### Hi, I'm Mitch
 
 Final-year IT student at QUT who likes building practical tools, from a tracking app for prawn hatchery tanks to a segmented network locked down with firewalls, a VPN and intrusion detection.
 
