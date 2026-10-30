@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hey, I'm Mitch
 
-<!--
-**Dominator989/Dominator989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year IT student at QUT who likes building practical tools, from a tracking app for prawn hatchery tanks to a segmented network locked down with firewalls, a VPN and intrusion detection.
 
-Here are some ideas to get you started:
+`$ whoami`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor of Information Technology (Computer Science, minor in Networks & Security) @ QUT, finishing Nov 2026
+- Brisbane, Australia
+- Member of the Australian Computer Society (ACS)
+- Looking for 2027 graduate roles in software, networking or cyber security
+
+`$ ls ~/projects`
+
+- [PrawnFarmHatcheryApp](https://github.com/Dominator989/PrawnFarmHatcheryApp): tank tracking for a prawn hatchery, covering water changes, feeds and lifecycle stages
+- [EvidenceHub](https://github.com/Dominator989/EvidenceHub): compliance evidence workspace for small businesses
+- [OpenStandard](https://github.com/Dominator989/OpenStandard): accessibility testing with axe-core and headless Chromium
+
+`$ cat stack.txt`
+
+TypeScript · JavaScript · Node.js · C# · C · Python · Swift · SQL · AWS · Linux · nftables · WireGuard
+
+`$ crontab -l`
+
+```
+# weekends
+0 5 * * 6,0   ./go-4wding.sh || ./go-fishing.sh
+```
+
+`$ ping`
+
+- LinkedIn: https://www.linkedin.com/in/mitch-ludcke-1486ba408/
+- Email: [mitchludcke@hotmail.com](mailto:mitchludcke@hotmail.com)
