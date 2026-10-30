@@ -28,5 +28,5 @@ TypeScript · JavaScript · Node.js · C# · C · Python · Swift · SQL · AWS 
 
 `$ ping`
 
-- LinkedIn: https://www.linkedin.com/in/mitch-ludcke-1486ba408/
+- LinkedIn: https://www.linkedin.com/in/mitchludcke/
 - Email: [mitchludcke@hotmail.com](mailto:mitchludcke@hotmail.com)
